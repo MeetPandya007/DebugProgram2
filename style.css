@@ -1,0 +1,18 @@
+img{
+	border-radius: 85px;
+	}
+body{
+	height: 768px;
+	width: 1366px;
+	background-color:#DCDCDC;
+}
+img{
+	
+	height: 150px;
+	width: 150px;
+	radius: 250px;
+}
+table{
+	border-style: dashed;
+	border: 1px;
+}
